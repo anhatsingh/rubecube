@@ -41,6 +41,3 @@ TBD
 - Open issues for bugs/feature requests.
 - Follow consistent commit messages and add tests for new logic.
 - Document major design decisions in docs/.
-
-## License
-Add a license file (e.g., MIT) as appropriate.
